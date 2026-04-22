@@ -1,0 +1,11 @@
+Industry,Year,Title,Avg_Salary
+Accounting,0,Associates,70000
+Accounting,3,Senior Associates,95000
+Accounting,6,Managers,135000
+Accounting,9,Senior Managers,180000
+Accounting,12,Managing Director,310000
+Investment Banking,0,Analyst,112500
+Investment Banking,3,Associate,200000
+Investment Banking,6,Vice President,275000
+Investment Banking,9,Director/Senior Vice President,325000
+Investment Banking,12,Managing Director,500000
