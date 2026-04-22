@@ -1,0 +1,122 @@
+Category,Metric,Penn SEAS,UIUC Grainger,Year/Cohort,Source,Notes
+Salary - SEAS Trend,Avg starting salary Class of 2016,$87571,—,2016,Penn SEAS 2020 PDF (5-yr trend),SEAS-specific (employed grads only)
+Salary - SEAS Trend,Avg starting salary Class of 2017,$90905,—,2017,Penn SEAS 2020 PDF (5-yr trend),
+Salary - SEAS Trend,Avg starting salary Class of 2018,$92284,—,2018,Penn SEAS 2020 PDF (5-yr trend),
+Salary - SEAS Trend,Avg starting salary Class of 2019,$99079,—,2019,Penn SEAS 2020 PDF (5-yr trend),
+Salary - SEAS Trend,Avg starting salary Class of 2020 (all SEAS),$100653,—,2020,Penn SEAS 2020 PDF,n=140 Penn
+Salary - SEAS Trend,Median starting salary Class of 2020,$90000,—,2020,Penn SEAS 2020 PDF,SEAS-only (no dual degrees) median = $90K
+Salary - SEAS Trend,Avg starting salary Class of 2021,$100321,—,2021,Penn SEAS 2021 PDF,n=127 respondents
+Salary - SEAS Trend,Median starting salary Class of 2021,$95000,—,2021,Penn SEAS 2021 PDF,SEAS-only median = $95K
+Salary - SEAS Trend,Avg starting salary Class of 2022,$116534,—,2022,Penn SEAS 2022 PDF,n=182; market-driven spike in tech/finance/consulting
+Salary - SEAS Trend,Median starting salary Class of 2022,$116730,—,2022,Penn SEAS 2022 PDF,SEAS-only median = $120K; unusually high per report
+Salary - SEAS Trend,Avg starting salary Class of 2023,$122205,—,2023,Penn SEAS 2023 PDF,n=145 (all SEAS incl. dual degrees)
+Salary - SEAS Trend,Median starting salary Class of 2023,$115000,—,2023,Penn SEAS 2023 PDF,n=145
+Salary - SEAS Trend,Avg starting salary Class of 2024,$138360,—,2024,Penn SEAS 2024 PDF,n=98 (all SEAS); low n — quant firm composition skews avg up
+Salary - SEAS Trend,Median starting salary Class of 2024,$122500,—,2024,Penn SEAS 2024 PDF,n=98
+Salary - SEAS Trend,Mean starting salary Class of 2025 (all Penn),$132508,—,2025,Daily Pennsylvanian Mar 2026,All-Penn highest; SEAS top since 2021
+Salary - SEAS Trend,Median starting salary Class of 2025 (all Penn),$122500,—,2025,Daily Pennsylvanian Mar 2026,
+Salary - SEAS Only,Class of 2020 SEAS-only (no dual),avg $97514 / median $90000,—,2020,Penn SEAS 2020 PDF,n=95; range $26K–$180K
+Salary - SEAS Only,Class of 2021 SEAS-only (no dual),avg $99315 / median $95000,—,2021,Penn SEAS 2021 PDF,n=95; range $40K–$180K
+Salary - SEAS Only,Class of 2022 SEAS-only (no dual),avg $116494 / median $120000,—,2022,Penn SEAS 2022 PDF,n=140; range $37K–$225K
+Salary - SEAS Only,Class of 2023 SEAS-only (no dual),avg $119481 / median $115500,—,2023,Penn SEAS 2023 PDF,n=116; range $37K–$350K
+Salary - SEAS Only,Class of 2024 SEAS-only (no dual),avg $130679 / median $120000,—,2024,Penn SEAS 2024 PDF,n=77; range $20K–$375K
+Salary - SEAS Only,Class of 2023 SEAS/Wharton dual degree,avg $128077 / median $110000,—,2023,Penn SEAS 2023 PDF,n=26; range $100K–$245K
+Salary - SEAS Only,Class of 2024 SEAS/Wharton dual degree,avg $159278 / median $125000,—,2024,Penn SEAS 2024 PDF,n=18; range $80K–$300K
+Salary - UIUC College Comparison,UIUC all-campus median salary,—,$75000,2023-24,Illini Success 2023-24 Report,All majors; n=1233 salary respondents of 8341 grads
+Salary - UIUC College Comparison,UIUC all-campus average salary,—,$75373,2023-24,Illini Success 2023-24 Report,Median signing bonus $5000
+Salary - UIUC College Comparison,Grainger Engineering median salary,—,$85000,2023-24,Illini Success 2023-24 Report,n=318 salary respondents of 1971 Grainger grads (16%)
+Salary - UIUC College Comparison,Grainger Engineering average salary,—,$96766,2023-24,Illini Success 2023-24 Report,Right-skewed: mean >> median due to high CS/quant earners
+Salary - UIUC College Comparison,Grainger median signing bonus,—,$7000,2023-24,Illini Success 2023-24 Report,n=203
+Salary - UIUC College Comparison,Gies Business (Finance major) median,—,$80000,2023-24,Illini Success 2023-24 Report,n=122; avg $82070; signing bonus median $6000
+Salary - UIUC College Comparison,Gies Business (Accounting major) median,—,$77000,2023-24,Illini Success 2023-24 Report,n=90; avg $78477
+Salary - UIUC College Comparison,Information Sciences median,—,$85000,2023-24,Illini Success 2023-24 Report,n=21; avg $81891
+Salary - UIUC Grainger By Major,Computer Engineering median,—,$95000,2023-24,Illini Success 2023-24 Report,n=77; avg $103222; signing bonus median $10000; n_grads=383
+Salary - UIUC Grainger By Major,Computer Engineering signing bonus median,—,$10000,2023-24,Illini Success 2023-24 Report,n=57 signing bonus respondents
+Salary - UIUC Grainger By Major,Aerospace Engineering median,—,$85000,2023-24,Illini Success 2023-24 Report,n=19; avg $84974; n_grads=141
+Salary - UIUC Grainger By Major,Bioengineering median,—,$74250,2023-24,Illini Success 2023-24 Report,n=15; avg $75035; n_grads=74
+Salary - UIUC Grainger By Major,Civil & Environmental Engineering median,—,$72800,2023-24,Illini Success 2023-24 Report,n=30; avg $72451; n_grads=189
+Salary - UIUC Grainger By Major,Agricultural & Biological Engineering median,—,$83500,2023-24,Illini Success 2023-24 Report,n=6; avg $81733; n_grads=15
+Salary - UIUC Grainger Trend,Avg starting salary 2022-23,—,$93837,2022-23,Grainger Twitter @uofigrainger Apr 2024,
+Salary - UIUC Grainger Trend,Avg starting salary 2023-24,—,$96766,2023-24,Illini Success 2023-24 Report,Highest of all UIUC colleges
+Salary - Long-term,All-Penn median earnings 10yr post-enrollment,$111371,—,2023,DOE College Scorecard via DP Jun 2024,#1 in Ivy League
+Salary - Long-term,UIUC overall early career median,—,$80200,2024,Payscale via Daily Illini,All majors; Grainger significantly higher
+Salary - Long-term,Penn alumni individual earnings mean (~10yr out),$124785,—,2005-07 cohort,Penn AY 2017 Alumni Survey,All Penn schools (not SEAS-only)
+Salary - Long-term,Penn alumni household income mean (~10yr out),$182792,—,2005-07 cohort,Penn AY 2017 Alumni Survey,vs SPRI comparison $170463
+Industry - SEAS,Technology (% full-time employed),39% / 42% / 47% / 32% / 38%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Largest single sector; 2023 dip likely survey composition
+Industry - SEAS,Financial Services (% full-time employed),19% / 21% / 19% / 23% / 26%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Growing share in 2023–24; quant firms rising
+Industry - SEAS,Consulting (% full-time employed),11% / 17% / 15% / 15% / 10%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,MBB dominant; declined in 2024
+Industry - SEAS,Engineering/Manufacturing (% full-time employed),3% / 1% / 3% / 12% / 9%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,SpaceX/Tesla driving 2023–24 spike
+Industry - SEAS,Pharma/Biotech (% full-time employed),6% / 3% / 3% / 3% / 2%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Mainly from Bioengineering major
+Industry - UIUC,Top employer sectors (100+ hires),—,"Accounting; Banking & Financial Services; Computer Systems Design; Healthcare",2023-24,Illini Success 2023-24 Report,All UIUC colleges combined
+Industry - UIUC,Top employers by volume (30+),—,"Amazon; PwC; UIUC itself; Deloitte (20+); KPMG (20+)",2023-24,Illini Success 2023-24 Report,All colleges; Big4 and Amazon dominate all-campus
+Industry - UIUC,Grainger select employers,—,"AECOM; AbbVie; Accenture; Amazon; Applied Materials; Burns & McDonnell; Capital One; Deloitte; Ford; GE Aerospace; Honeywell; IBM; IMC Trading; McKinsey; Microsoft; Morgan Stanley; Netflix; PwC; Qualcomm; Siemens; SpaceX; Tesla; Uber",2023-24,Illini Success 2023-24 Report,Grainger-specific employer list
+Employers - SEAS,Top tech employer 2020,Microsoft (18),—,2020,Penn SEAS 2020 PDF,Followed by Facebook (17) and Amazon (9)
+Employers - SEAS,Top tech employer 2021,Microsoft (21),—,2021,Penn SEAS 2021 PDF,Followed by Amazon (17) and Facebook (11)
+Employers - SEAS,Top tech employer 2022,Amazon (25),—,2022,Penn SEAS 2022 PDF,Followed by Meta (23) and Google (14)
+Employers - SEAS,Top tech employer 2023,Google (5),—,2023,Penn SEAS 2023 PDF,Microsoft (4); Amazon/Bloomberg/Palantir (2 each)
+Employers - SEAS,Top tech employer 2024,Google (11),—,2024,Penn SEAS 2024 PDF,Palantir (9); Amazon (8); Meta (8)
+Employers - SEAS,Top finance employer 2023,Goldman Sachs (21),—,2023,Penn SEAS 2023 PDF,Morgan Stanley (19); JPMorgan (17); Citi (10) — bulge bracket dominant
+Employers - SEAS,Top finance employer 2024,Five Rings (7),—,2024,Penn SEAS 2024 PDF,Goldman (6); SIG (6); Citadel (5) — quant/HF shift vs 2023
+Employers - SEAS,Top consulting employer 2023,McKinsey (13),—,2023,Penn SEAS 2023 PDF,BCG (6); Oliver Wyman (3); Bain (3)
+Employers - SEAS,Top consulting employer 2024,McKinsey (6),—,2024,Penn SEAS 2024 PDF,Alvarez & Marsal (2) — notable MBB volume drop
+Employers - SEAS,Top engineering employer 2023,SpaceX (5),—,2023,Penn SEAS 2023 PDF,AMD (2); Zoox (2)
+Employers - SEAS,Top engineering employer 2024,SpaceX (7),—,2024,Penn SEAS 2024 PDF,Tesla (3); ASML (2)
+Job Function - SEAS,Software Development/Engineering (%),43% / 38% / 51% / 40% / 46%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Dominant function consistently
+Job Function - SEAS,Consulting (Mgmt/Strategy) (%),8% / 13% / 12% / 15% / 9%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,
+Job Function - SEAS,Finance (all) (%),~7% / ~9% / ~8% / 14% / 16%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Growing share
+Job Function - SEAS,Data Analytics (%),9% / 16% / 5% / 5% / 4%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,
+Outcomes - SEAS,Full-time employment rate (known outcomes),69.3% / 76.0% / 73.5% / 77.6% / 73.3%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,
+Outcomes - SEAS,Continuing education rate (known outcomes),23.0% / 17.3% / 23.8% / 19.1% / 22.3%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,
+Outcomes - SEAS,Knowledge rate (survey + LinkedIn),85% / 83% / 88% / 80% / 78%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,High quality relative to UIUC
+Outcomes - SEAS,Class size (total grads),477 / 474 / 488 / 451 / 467,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,
+Outcomes - SEAS,Offers accepted before January (% of employed),80% / 68% / 78% / 78% / 66%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,Early-recruiting tech/finance/consulting pipeline
+Outcomes - UIUC,Grainger secured first destination rate,—,94%,2023-24,Illini Success 2023-24 Report,90% all-campus; Grainger above average
+Outcomes - UIUC,Grainger employed (% of known outcomes),—,52%,2023-24,Illini Success 2023-24 Report,vs Penn SEAS ~73-78%; UIUC has far higher grad school rate
+Outcomes - UIUC,Grainger continuing education (% of known outcomes),—,42%,2023-24,Illini Success 2023-24 Report,vs Penn SEAS ~19-23%; major structural difference
+Outcomes - UIUC,Grainger knowledge rate,—,64% (1271/1971),2023-24,Illini Success 2023-24 Report,Salary data subset only 318/1971 = 16%
+Outcomes - UIUC,Grainger total graduates,—,1971,2023-24,Illini Success 2023-24 Report,vs Penn SEAS ~450-490/yr; ~4x larger
+Outcomes - UIUC,All-campus knowledge rate,—,67% (5582/8341),2023-24,Illini Success 2023-24 Report,33% primary (survey); 35% secondary sources
+Outcomes - UIUC,All-campus secured first destination,—,90%,2023-24,Illini Success 2023-24 Report,50% employed; 40% continuing ed; <1% volunteer
+Outcomes - UIUC,Preferred first-choice destination rate,—,97%,2022-23,Illini Success 2022-23 Report,
+Geography - SEAS,% working in New York City,~30% / ~29% / ~38% / 36% / 31%,—,2020/2021/2022/2023/2024,Penn SEAS PDFs,NYC = largest destination (96 in 2023; 76 in 2024)
+Geography - SEAS,Top cities 2023 (n),"New York (96); SF (19); Boston (17); Seattle (16); Philadelphia (12)",—,2023,Penn SEAS 2023 PDF,
+Geography - SEAS,Top cities 2024 (n),"New York (76); SF (19); Boston (17); Philadelphia (14); Seattle (13)",—,2024,Penn SEAS 2024 PDF,
+Geography - UIUC,% remaining in Illinois (all campus),—,69% overall / 80% of IL residents,2023-24,Illini Success 2023-24 Report,72% of enrolled are IL residents
+Geography - UIUC,Top out-of-state destinations,—,"California (231); New York (161); Texas (67); Wisconsin (63); Missouri (54)",2023-24,Illini Success 2023-24 Report,Strong in-state retention vs Penn's NYC/SF concentration
+Major-level - SEAS CS,Computer Science full-time employment,78.9%,—,2020,Penn SEAS 2020 PDF,n=90; Tech 68% / Fin Svcs 17% / Consulting 6%
+Major-level - SEAS Appl CS,Applied Science CS full-time employment,82.4%,—,2020,Penn SEAS 2020 PDF,n=74; Tech 45% / Fin Svcs 37% / Consulting 10%
+Major-level - SEAS SSE,Systems Science & Engineering full-time,87.0%,—,2020,Penn SEAS 2020 PDF,n=23; Fin Services 35% / Tech 15% / Consulting 10%
+Major-level - SEAS ME,Mechanical Engineering full-time employment,59.3%,—,2020,Penn SEAS 2020 PDF,n=54; Consulting 23% / Engineering 16% / Tech 16%
+Major-level - SEAS BE,Bioengineering full-time employment,51.1%,—,2020,Penn SEAS 2020 PDF,n=47; continuing ed 44.7%; Consulting 25% / Pharma 25%
+Major-level - SEAS EE,Electrical Engineering full-time employment,60.9%,—,2020,Penn SEAS 2020 PDF,n=23; Tech 43% / Energy 14% / Fin Svcs 14%
+Major-level - SEAS CBE,Chemical & Biomolecular Eng full-time,64.5%,—,2020,Penn SEAS 2020 PDF,n=31; Pharma 32% / Consulting 16% / Tech 16%
+Major-level - UIUC CompE,Computer Engineering outcomes,—,46% employed / 41% cont. ed,2023-24,Illini Success 2023-24 Report,n_grads=383; median $95K avg $103K; signing bonus $10K median
+Major-level - UIUC AeroE,Aerospace Engineering outcomes,—,56% employed / 42% cont. ed,2023-24,Illini Success 2023-24 Report,n_grads=141; median $85K avg $85K
+Major-level - UIUC BioE,Bioengineering outcomes,—,53% employed / 44% cont. ed,2023-24,Illini Success 2023-24 Report,n_grads=74; median $74.25K avg $75K
+Major-level - UIUC CivE,Civil & Environmental Engineering outcomes,—,49% employed / 49% cont. ed,2023-24,Illini Success 2023-24 Report,n_grads=189; median $72.8K avg $72.5K
+Cost,Annual tuition (2024-25),$68686,$18452 in-state / ~$40000 OOS,2024-25,Penn Today / UIUC Registrar,UIUC Engineering differential rate
+Cost,Annual fees,$7766,Included in tuition differential,2024-25,Penn Today,
+Cost,Total annual COA (on-campus),$87860,$36489 in-state / $58318 OOS,2024-25,Penn Today / UIUC,Before financial aid
+Cost,Average annual net price (aid recipients),$26138,$18565 in-state / $40394 OOS,2024-25,DOE Scorecard / UIUC,Penn meets 100% of demonstrated need w/ no loans
+Cost,4-year net cost estimate (w/ avg aid),$104552 (aided),$74260 in-state / $161576 OOS,Estimated,Calculated from net price,Simplified; does not account for aid variation
+ROI,Penn SEAS median vs UIUC Grainger median salary gap,+$37500 (Penn),—,2023-24,Calculated,$122.5K Penn median vs $85K UIUC median
+ROI,Penn SEAS avg vs UIUC Grainger avg salary gap,+$25594 (Penn),—,2023-24,Calculated,$122.2K Penn (2023 avg) vs $96766 UIUC avg
+ROI,Years to break-even on Penn vs UIUC IS net cost premium,~0.8 yrs (using median gap),—,Calculated,Back-of-envelope,Net cost premium ~$30K; annual salary premium ~$37.5K (median basis)
+ROI,Penn vs UIUC OOS net cost,Penn cheaper by ~$57K over 4 yrs,—,Estimated,Calculated from net price,Flips ROI question for OOS students entirely
+ROI,10yr median earnings Penn vs UIUC,Penn $111371 vs UIUC ~$80K all-campus,—,2023-24,DOE Scorecard / Payscale,UIUC Grainger significantly above $80K all-major avg
+Mobility,Chetty bottom-to-top-quintile mobility rate,~2.2% (Ivy-Plus avg),Higher than Ivy-Plus avg,1980-82 cohort,Opportunity Insights NBER WP 23618,Penn limited by low low-income access; UIUC higher via access
+Mobility,% students from bottom income quintile,~3.8% (Ivy-Plus avg),Higher,1980-82 cohort,Opportunity Insights,Elite privates have low Q1 access
+Mobility,Upper-tail mobility (Q1 to top 1%),Highest at Ivy-Plus schools,Lower,1980-82 cohort,Opportunity Insights,Penn likely higher upper-tail due to finance pipeline
+Mobility,US News Social Mobility rank,#184 (national universities),Better position,2024,US News / Penn Almanac 2023,Low Pell enrollment drives Penn's poor rank
+Reputation,US News undergrad engineering rank,#19,#5 (tied),2024,US News,
+Reputation,US News grad engineering rank,Top 20,#6 (tied),2025,US News,
+Reputation,Perceived identity,Finance+tech interdisciplinary; Wharton dual degree pipeline,Deep CS/ECE; dominant Big Tech feeder; strong Midwest presence,—,Industry perception,
+Qualitative - Penn Alumni,Overall satisfaction with Penn UG education,4.49/5.0 (93% satisfied/very satisfied),No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 4.47
+Qualitative - Penn Alumni,Would recommend Penn to HS senior,4.63/5.0 (74% definitely yes),No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 4.44; Penn notably above peers
+Qualitative - Penn Alumni,Career preparedness rating,4.26/5.0,No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 4.14; Penn outperforms
+Qualitative - Penn Alumni,Work-life balance satisfaction,3.93/5.0,No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 3.96; slightly below
+Qualitative - Penn Alumni,Community perceived as competitive,3.65/4.0 (69% very competitive),No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,Highest-rated community attribute at Penn
+Qualitative - Penn Alumni,Financially well-off as life priority,82% essential/very important,No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 70%; Penn alums more financially oriented
+Qualitative - Penn Alumni,Standard of living satisfaction,4.11/5.0,No equivalent survey,2017 (2005-07 cohort),Penn AY 2017 Alumni Survey,vs SPRI 3.91; Penn significantly outperforms
+Qualitative - UIUC,Grainger first destination satisfaction,—,97% secured preferred first-choice (2022-23),2022-23,Illini Success,No alumni satisfaction survey available in static form
+Qualitative - UIUC,Experiential learning participation (all UIUC),—,91% participated; 76% interned,2023-24,Illini Success 2023-24 Report,42% received full-time offer from experiential learning activity
