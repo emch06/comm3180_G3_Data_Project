@@ -1,32 +1,21 @@
-## Group project for COMM3180 _Stories from data_ (Spring 2026)
+## Are You Actually Gonna Work for Us Someday? A Data-Driven  Investigation into Penn Band’s Controversial March Madness Chant
 
-Success: 
--median income levels 
--average debt after 
--masters, phd (how many pursue post-grad schools) 
--overall mobility index 
--average salaries for people in that industry (engineering & business) 
--Fortune 500, FANG companies 
--Qualitative stuff (reddit/social media/news articles discussions/Linkedin, happiness levels of post-grads, overall sentiments, survey data from Daily Penn or UIUC newspaper, alumni rating of undergraduate experience) → sentiment analysis 
-- Google search trends, school news associations
--how many alumni participate in alumni events (mentoring, etc) and donate to schools (frequency of donations) 
-- ROI (compare median income levels and tuition → seeing if actually worth it) 
-- seeing each school’s US News World Ranking (for the past 100 years) 
-- systems in place/resources that help alumni 
-- employment rates and unemployment rates try to find overall or for each year 
+On March 19, 2026, University of Pennsylvania fell 105–70 to University of Illinois Urbana-Champaign in the opening round of the NCAA Tournament, ending what had otherwise been one of the most celebrated seasons in recent Penn basketball history. The Quakers had reached March Madness for the first time since 2018, reigniting excitement across campus and drawing national attention to a program that had long struggled to reestablish itself on the national stage. Within the Penn community, much of the postgame discussion initially centered around basketball itself: the absence of Penn’s leading scorer Ethan Roberts, concerns surrounding junior forward TJ Powers’ illness leading into the game, and the broader accomplishment of an Ivy League team returning to the tournament after years of inconsistency. But by the end of the night, the game itself had become secondary.
 
+As the final minutes ticked down and Penn’s win became impossible, members of the Penn Band began chanting from the sidelines:
 
-Research Question: Which school has an overall, stronger return on investment according to post-grad salary, career progression, and school cost? (Engineering, Business, and Overall)
-Quantitative 
--median income levels
--overall mobility index 
--average salaries for people in that industry (engineering & business and overall) 
--ROI (compare median income levels and tuition → seeing if actually worth it) 
--Fortune 500, FANG companies 
+“That’s alright, that’s okay, you’re gonna work for us someday.”
 
-Research Question: What are the overall sentiments for each school regarding quality-of-life, happiness levels, and general media impressions of hire-ability? 
-Qualitative 
--sentiment analysis 
--school association 
---Qualitative stuff (reddit/social media/news articles discussions/Linkedin, happiness levels of post-grads, overall sentiments, survey data from Daily Penn or UIUC newspaper, alumni rating of undergraduate experience) → sentiment analysis 
-- Google search trends, school news associations
+The moment was captured on video and rapidly spread across social media platforms, transforming an otherwise ordinary March Madness blowout into a national debate about elitism, prestige, and the meaning of higher education in America. 
+
+A repost of the clip by Yahoo Sports on X accumulated more than 4.2 million views within days: thousands of comments condemned the chant as arrogant, classist, and emblematic of Ivy League entitlement. Critics pointed out the irony of Penn students directing the chant toward a university widely recognized for its academic and professional strength. Even members of Penn’s own academic community publicly distanced themselves from the chant, with several professors and alumni expressing embarrassment online over the national perception it created.
+
+Across Reddit threads, anonymous campus forums like Sidechat, and comment sections discussing the incident, some defended the chant. Supporters pointed to Penn’s status as an Ivy League institution, Wharton’s dominance in finance and consulting recruitment, and the long-standing cultural association between Ivy League degrees and professional power. Others argued that chants like these have existed for decades within Ivy League athletics and reflected a broader stereotype rather than a literal claim of superiority.
+
+The controversy therefore raises a larger and more uncomfortable question:
+ 
+**How much does institutional prestige actually translate into measurable post-graduate advantage?**
+
+More specifically, does attending an Ivy League university like Penn meaningfully provide stronger long-term career outcomes than attending a highly-ranked public institution like University of Illinois Urbana-Champaign? And if so, in what ways? Is prestige reflected primarily through salary, elite employment pipelines, and social capital, or are factors like student happiness, debt burden, career satisfaction, and return on investment equally important indicators of success?
+
+Rather than treating the chant as simply offensive or justified, our project uses it as a starting point for a broader investigation into the real-world value of elite higher education. By combining quantitative labor-market data with qualitative sentiment analysis, we aim to move beyond stereotypes and examine whether the assumptions embedded within the chant actually hold up under empirical scrutiny.
