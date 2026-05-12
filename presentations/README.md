@@ -34,13 +34,13 @@ Limitation observed in first presentation: might have to manually input the data
 
 ### Final Presentation
 
-  1.
+  1. Research Question + Hypothesis 
 
 **Research Question:** Which alumni (UPenn or UIUC) actually win long-term? 
 **Hypothesis:** Penn will outperform in absolute earnings and elite placements (especially in business). UIUC will be
 more cost-efficient and may achieve higher ROI, especially in engineering. Outcomes will vary by industry.
 
-  2. 
+  2. Datasets
 
 Used the same data from the initial presentation (but refined) 
 - US Department of Education: College Scoreboard
@@ -52,7 +52,7 @@ Used the same data from the initial presentation (but refined)
 
 Manually extracted each data as it is a compiled website --> formed a csvs from the manually extracted data  
 
-  3. 
+  3. Data Analysis 
 
 Overall: 
 - ROI Comparisions
@@ -70,7 +70,7 @@ Engineering:
 - which industry alumni start to work in
 - outcome profiles 
 
-  4. 
+  4. Findings 
 
 - Overall: UPenn outperforms on financial outcomes (better debt-to-income ratio), yet its community expresses more
 negative sentiment. Meanwhile, UIUC has a heavier debt burden but a more positive community outlook.
