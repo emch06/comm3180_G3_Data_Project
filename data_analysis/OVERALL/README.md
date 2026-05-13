@@ -1,0 +1,5 @@
+Using the five datasets from the department of education and tax records, the analysis compared Penn and UIUC across financial aspects. The quantitative analysis in the notebook "overall_analysis.csv" examines median earnings at 6 and 10 years post-graduation, return on investment, median debt, debt-to-income ratio, and economic mobility data, providing a comparative visual for all of these aspects. The qualitative analysis in the notebook "sentiment_analysis.csv" includes a sentiment analysis across 50 sources (Reddit, Niche reviews, Alumni Surveys, Students Newspapers) to score each school on the overall undergraduate experience: quality of life, belonging, stresss, and happiness. 
+
+**Key findings** from combining both overall_analysis.csv and sentiment_analysis.csv
+1) Penn: Penn had a better financial outcome with a stronger ROI and lower debt-to-income, but a more stressful undergraduate experience.
+2) UIUC: UIUC appeared to have a more positive undergraduate experience driven by a community sentiment, but faltered in long-term financial return. However, UIUC is a strong force in broad economic mobility.  

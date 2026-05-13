@@ -2,75 +2,55 @@
 
 ### Initial Presentation
 
-* Our intial presentation was to introduce our topic of Penn vs UIUC outcomes (alongside the controversy surrounding March Madness). The initial presentation included the data sets we would use, and the approach we would take to analyze them.
+* Our first presentation introduced the core question and initial idea of UPenn vs UIUC: How do outcomes for University of Pennsylvania (UPenn) and University of Illinois Urbana-Champaign (UIUC) alumni actually compare? We framed our approach around the March Madness controversy that recently occured, and outlined the datasets and methodology we planned to use.
 
-**Datasets:**
+**Datasets:** (Datasets used to support our analysis)
+- College Scorecard (US Department of Education) – income levels, median earnings, median debt, ROI
+- Anonymous Tax Records - income mobility index tracking students from origin income to post-grad salary
+- Penn Career Services -  undergraduate and graduate outcome reports by school and industry
+- Illinois Alumni Reports - UIUC 2024–2025 outcomes report and Grainger Engineering-specific data
 
-National Data Sets:
-- College Scoreboard --> see income levels, median earnings, median debt, ROI
-- Anonymous Tax Records --> observe mobility index: what income levels students originate from, and what salary they make post-graduation
-
-Creating a success index that can be measured:
-1) Median salary (earnings after graduation)
-2) Median debt after graduation
+**Defining Success Metrics:** (what analysis we proposed to do using the datasets) 
+1) Median salary after graduation 
+2) Median debt at graduation
 3) Overall mobility index
 4) Median student income at 34
 
-Penn and UIUC Career Outcomes Data 
-- Outcome reports for undergraduates and graduates across schools (Penn career services)
-- Each school outcome (Penn career services)
-- Specific industry outcomes (Penn career services)
-- UIUC 2024-2025 Report (Illinois Alumni)
-- UIUC Engineering specific data (Illinois Alumni) 
-
-For both school’s career outcomes:
+**For both school’s career outcomes:** (what analysis we proposed to do using the datasets) 
 1. Compare median salary across schools
 2. Specific Industry Outcomes
 3. Top employers
 4. Concentrations in industries (finance, cs, etc.)
 
-Limitation observed in first presentation: might have to manually input the data into a csv file 
+Key Limitation: Most of the data is published in a compiled web format rather than downloadable csv files, which requires manul extraction into separate data sheets. 
 
 
 ### Final Presentation
 
-  1. Research Question + Hypothesis 
+Our final presentation delivered on the full analysis across three aspects: overall financial outcomes, business school comparisons, and engineering school comparisons.
 
 **Research Question:** Which alumni (UPenn or UIUC) actually win long-term? 
-**Hypothesis:** Penn will outperform in absolute earnings and elite placements (especially in business). UIUC will be
+**Hypothesis:** Penn would outperform in absolute earnings and elite placements (especially in business). UIUC will be
 more cost-efficient and may achieve higher ROI, especially in engineering. Outcomes will vary by industry.
 
-  2. Datasets
 
-Used the same data from the initial presentation (but refined) 
-- US Department of Education: College Scoreboard
-- Anonymous Tax Records
-- Outcomes Reports: Penn Career Services
-- Each school outcomes (Buisness, Engineering): Penn Career Services 
-- UIUC 2024-2025 Report: illinois Alumni
-- UIUC Engineering Specific Data: Illinois Alumni
+**Datasets** (datasets were eventually cleaned and presented in csv files for the final presentation format) 
+- College Scorecard (US Department of Education) – income levels, median earnings, median debt, ROI
+- Anonymous Tax Records - income mobility index tracking students from origin income to post-grad salary
+- Penn Career Services -  undergraduate and graduate outcome reports by school and industry
+- Illinois Alumni Reports - UIUC 2024–2025 outcomes report and Grainger Engineering-specific data
 
-Manually extracted each data as it is a compiled website --> formed a csvs from the manually extracted data  
 
-  3. Data Analysis 
+**Data Analysis**
 
-Overall: 
-- ROI Comparisions
-- Median Debt at Graduation
-- Debt to Income Ratio
-- Penn vs UUIC General Impressions using Sentiment Analysis 
+Overall: ROI Comparisions, Median Debt at Graduation, Debt to Income Ratio, Penn vs UUIC General Impressions using Sentiment Analysis 
 
-Business: 
-- Starting Salary Comparision
-- ROI of both schools
+Business: Starting Salary By Major Comparision, ROI trajectories of Whartona and Gies 
 
-Engineering: 
-- Starting Salary Comparision
-- ROI
-- which industry alumni start to work in
-- outcome profiles 
+Engineering: Starting Salary Comparision, ROI, Industry Placement, Outcome profiles 
 
-  4. Findings 
+
+**Findings** 
 
 - Overall: UPenn outperforms on financial outcomes (better debt-to-income ratio), yet its community expresses more
 negative sentiment. Meanwhile, UIUC has a heavier debt burden but a more positive community outlook.
@@ -89,11 +69,10 @@ gradually. In marketing, both schools show upward trends, reflecting broader ind
 - UIUC leads in pure engineering
 - Different outcome profiles: Penn SEAS feeds finance, consulting & tech. UIUC is a traditional engineering pipeline. Same degree — different destination.
 
-  5. Next steps
 
-- Refining analysis using suggestions from other groups (refine + add more sections for overall analysis)
-- things to consider for overall: income mobility, where alumni live post-grad relative to income 
-- include more visualizations
-- fix engineering visuals (graphs)
+**Next steps**
+- Incorporate income mobility and post-grad geographic data into the overall analysis
+- Add and refine visualizations across all sections
+- Fix and expand engineering visualizations
 
 

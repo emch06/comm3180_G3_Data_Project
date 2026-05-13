@@ -1,5 +1,7 @@
 ## Data analysis notebooks for COMM3180 Group Data Project
 
+This section walks through the analysis we conducted across three aspects: overall school comparisons, business schools, and engineering schools. Each folder contains notebooks, which are step-by-step documents, that combine our code, charts, and written explanations so that anyone can follow our reasoning and see how we arrived at our conclusions.
+
 **Overall Folder:** 
 Using the five datasets from the department of education and tax records, the analysis compared Penn and UIUC across financial aspects. The quantitative analysis in the notebook "overall_analysis.csv" examines median earnings at 6 and 10 years post-graduation, return on investment, median debt, debt-to-income ratio, and economic mobility data, providing a comparative visual for all of these aspects. The qualitative analysis in the notebook "sentiment_analysis.csv" includes a sentiment analysis across 50 sources (Reddit, Niche reviews, Alumni Surveys, Students Newspapers) to score each school on the overall undergraduate experience: quality of life, belonging, stresss, and happiness. 
 
@@ -24,4 +26,4 @@ This section compares two engineering schools (Penn SEAS vs Grainger). The analy
 
 **Key findings** 
 1) Penn SEAS: Higher median starting salary and faster market entry. This school is driven by a dynamic pipeline of using engineering into finance and consulting alongside tech.
-2) UIUC's Grainger: Stronger pure engineering reputation (tehnical skills), but a large share of graduates puruse advanced degrees, delaying immediate earnings. 
+2) UIUC's Grainger: Stronger pure engineering reputation (tehnical skills), but a large share of graduates pursue advanced degrees, delaying immediate earnings. 
